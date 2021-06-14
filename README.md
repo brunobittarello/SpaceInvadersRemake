@@ -4,9 +4,9 @@ This is a remake made by me using Unity and was a test for (a gamestudio)[http:/
 
 ## Assets and references
 
-https://www.classicgaming.cc/classics/space-invaders/play-guide
-https://www.youtube.com/watch?v=MU4psw3ccUI
-https://primetimeamusements.com/getting-good-space-invaders/
-https://service.mattel.com/instruction_sheets/I4064.pdf
-https://i.pinimg.com/originals/d5/31/d0/d531d02c8edb38196b8aceeea781c29f.jpg
-https://www.youtube.com/watch?v=Tp8fGMSSCCg
+* https://www.classicgaming.cc/classics/space-invaders/play-guide
+* https://www.youtube.com/watch?v=MU4psw3ccUI
+* https://primetimeamusements.com/getting-good-space-invaders/
+* https://service.mattel.com/instruction_sheets/I4064.pdf
+* https://i.pinimg.com/originals/d5/31/d0/d531d02c8edb38196b8aceeea781c29f.jpg
+* https://www.youtube.com/watch?v=Tp8fGMSSCCg
