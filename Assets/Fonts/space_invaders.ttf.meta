@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4dba188d0b3d7fe4980a42997d93829b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Space Invaders
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 48ea546ecf9b8d442b8e82270077f937, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
